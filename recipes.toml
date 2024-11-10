@@ -1,7 +1,79 @@
-[recipe1]
-ovos = 2
-frango = 1
+[frango_xadrez]
+frango = { quantity = 1, unit = "kg" }
+vinagre_branco = { quantity = 1, unit = "colher_sopa" }
+pimentao_verde = { quantity = 1, unit = "unid" }
+pimentao_vermelho = { quantity = 1, unit = "unid" }
+pimentao_amarelo = { quantity = 1, unit = "unid" }
+cebola = { quantity = 1, unit = "unid" }
+alho = { quantity = 4, unit = "dentes" }
+gengibre_po = { quantity = 1, unit = "colher_cha" }
+shoyu = { quantity = 100, unit = "mL" }
+amido_milho = { quantity = 2, unit = "colher_sopa" }
+amendoim_torrado = { quantity = 2, unit = "colher_sopa" }
+azeite = { quantity = 50, unit = "mL"}
 
-[recipe2]
-frango = 1
-alho = 5
+[frango_curry]
+frango = { quantity = 1, unit = "kg" }
+oleo_canola = { quantity = 3, unit = "colher_sopa" }
+curry_po = { quantity = 2, unit = "colher_sopa" }
+cebola = { quantity = 1, unit = "unid" }
+alho = { quantity = 2, unit = "dentes" }
+leite_coco = { quantity = 200, unit = "mL" }
+molho_tomate = { quantity = 100, unit = "mL" }
+acucar = { quantity = 12, unit = "g" }
+amido_milho = { quantity = 1.5, unit = "colher_sopa" }
+pimentao_vermelho = { quantity = 1, unit = "unid" }
+limao = { quantity = 0.5, unit = "unid" }
+creme_leite = { quantity = 120, unit = "mL" }
+cebolinha = { quantity = 4, unit = "folhas" }
+azeite = { quantity = 50, unit = "mL"}
+
+[frango_teriyaki]
+frango = { quantity = 1, unit = "kg" }
+shoyu = { quantity = 120, unit = "mL" }
+acucar = { quantity = 50, unit = "g" }
+alho = { quantity = 3, unit = "dentes" }
+gengibre_po = { quantity = 1, unit = "colher_cha" }
+cebola = { quantity = 1, unit = "unid" }
+cebolinha = { quantity = 3, unit = "folhas" }
+amido_milho = { quantity = 1, unit = "colher_sopa" }
+gergelim = { quantity = 1, unit = "colher_sopa" }
+azeite = { quantity = 50, unit = "mL"}
+
+[assado_de_panela]
+# Carne pode ser acém, paleta ou coxão mole
+carne = { quantity = 1.5, unit = "kg" }  
+cebola = { quantity = 2, unit = "unid" }  
+alho = { quantity = 4, unit = "dentes" }
+tomate = { quantity = 2, unit = "unid" }  
+caldo_carne = { quantity = 500, unit = "mL" }
+vinho_tinto = { quantity = 200, unit = "mL" }
+louro = { quantity = 2, unit = "folhas" }
+azeite = { quantity = 50, unit = "mL"}
+
+[almondegas_bovinas]
+# Carne bovina moída
+carne_moida = { quantity = 500, unit = "g" }
+cebola = { quantity = 1.5, unit = "unid" }
+alho = { quantity = 3, unit = "dentes" }
+farinha_rosca = { quantity = 200, unit = "g" }
+leite = { quantity = 50, unit = "mL" }
+ovo = { quantity = 1, unit = "unid" }
+oregano = { quantity = 0.5, unit = "colher_cha" }
+queijo_parmesao = { quantity = 2, unit = "colher_sopa" }
+molho_tomate = { quantity = 500, unit = "mL" }
+azeite = { quantity = 50, unit = "mL"}
+manjericao = { quantity = 5, unit = "folhas" }
+
+[bife_ao_molho_madeira]
+# Bifes de filé mignon ou contra-filé (aproximadamente 200g cada)
+carne = { quantity = 1, unit = "kg" }  
+azeite = { quantity = 50, unit = "mL"}
+pimenta = { quantity = 0.5, unit = "colher_cha" }  # Pimenta-do-reino moída
+manteiga = { quantity = 2, unit = "colher_sopa" }
+cebola = { quantity = 1, unit = "unid" }
+alho = { quantity = 2, unit = "dentes" }
+cogumelo_champignon = { quantity = 200, unit = "g" }
+vinho = { quantity = 100, unit = "mL" }
+amido_milho = { quantity = 1, unit = "colher_cha" }  # Para engrossar o molho
+
