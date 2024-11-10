@@ -34,7 +34,7 @@ tomate: 4 unid
 vinho_tinto: 400 mL
 louro: 4 folhas
 carne_moida: 2 kg
-farinha_rosca: 400 g
+farinha_rosca: 200 g
 leite: 200 mL
 ovo: 4 unid
 oregano: 2 colher_cha

@@ -53,7 +53,7 @@ azeite = { quantity = 50, unit = "mL"}
 carne_moida = { quantity = 1, unit = "kg" }
 cebola = { quantity = 3, unit = "unid" }
 alho = { quantity = 6, unit = "dentes" }
-farinha_rosca = { quantity = 200, unit = "g" }
+farinha_rosca = { quantity = 100, unit = "g" }
 leite = { quantity = 100, unit = "mL" }
 ovo = { quantity = 2, unit = "unid" }
 oregano = { quantity = 1, unit = "colher_cha" }
