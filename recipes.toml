@@ -41,11 +41,10 @@ gergelim = { quantity = 1, unit = "colher_sopa" }
 azeite = { quantity = 50, unit = "mL"}
 
 [assado_de_panela]
-carne_para_assado = { quantity = 1.5, unit = "kg" }  
+carne_para_assado = { quantity = 1, unit = "kg" }  
 cebola = { quantity = 2, unit = "unid" }  
 alho = { quantity = 4, unit = "dentes" }
 tomate = { quantity = 2, unit = "unid" }  
-caldo_carne = { quantity = 500, unit = "mL" }
 vinho_tinto = { quantity = 200, unit = "mL" }
 louro = { quantity = 2, unit = "folhas" }
 azeite = { quantity = 50, unit = "mL"}

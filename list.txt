@@ -29,9 +29,8 @@ limao: 1 unid
 creme_leite: 240 mL
 cebolinha: 14 folhas
 gergelim: 2 colher_sopa
-carne_para_assado: 3 kg
+carne_para_assado: 2 kg
 tomate: 4 unid
-caldo_carne: 1000 mL
 vinho_tinto: 400 mL
 louro: 4 folhas
 carne_moida: 2 kg
