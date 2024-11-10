@@ -1,0 +1,44 @@
+Recipes to be made:
+
+- frango_xadrez (Servings: 2)
+- frango_curry (Servings: 1)
+
+Grocery List:
+frango: 3 kg
+vinagre_branco: 2 colher_sopa
+pimentao_verde: 2 unid
+pimentao_vermelho: 3 unid
+pimentao_amarelo: 2 unid
+cebola: 3 unid
+alho: 10 dentes
+gengibre_po: 2 colher_cha
+shoyu: 200 mL
+amido_milho: 6 colher_sopa
+amido_milho: 0 colher_cha
+amendoim_torrado: 4 colher_sopa
+azeite: 150 mL
+oleo_canola: 3 colher_sopa
+curry_po: 2 colher_sopa
+leite_coco: 200 mL
+molho_tomate: 100 mL
+acucar: 12 g
+limao: 0 unid
+creme_leite: 120 mL
+cebolinha: 4 folhas
+gergelim: 0 colher_sopa
+carne: 0 kg
+tomate: 0 unid
+caldo_carne: 0 mL
+vinho_tinto: 0 mL
+louro: 0 folhas
+carne_moida: 0 g
+farinha_rosca: 0 g
+leite: 0 mL
+ovo: 0 unid
+oregano: 0 colher_cha
+queijo_parmesao: 0 colher_sopa
+manjericao: 0 folhas
+pimenta: 0 colher_cha
+manteiga: 0 colher_sopa
+cogumelo_champignon: 0 g
+vinho: 0 mL

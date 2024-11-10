@@ -16,7 +16,9 @@ def main():
     3. Aggregates the total quantity needed for each ingredient across all recipes, grouped by unit.
 
     Output:
-    - Prints a grocery list showing each ingredient with its total required amount and unit.
+    - Prints a header listing the recipes to be made, followed by a grocery list showing
+      each ingredient with its total required amount and unit.
+    - Saves the output to a "list.txt" file.
 
     Assumptions:
     - If a recipe's servings are not specified in `servings.toml`, it defaults to 0,
@@ -25,16 +27,6 @@ def main():
     Dependencies:
     - The `toml` library for loading TOML files.
     - The `collections.defaultdict` class for aggregating ingredient totals.
-
-    TOML File Structure:
-    - `recipes.toml` example:
-        [recipe1]
-        ingredient1 = { quantity = 2, unit = "kg" }
-        ingredient2 = { quantity = 1, unit = "unid" }
-
-    - `servings.toml` example:
-        [recipe1]
-        servings = 4
     """
 
     # Load the TOML files
@@ -47,6 +39,17 @@ def main():
     # Dictionary to store the total ingredients required, grouped by unit
     grocery_list = defaultdict(lambda: defaultdict(float))
 
+    # List to store the output content for writing to the file
+    output_content = []
+
+    # Header for recipes to be made
+    output_content.append("Recipes to be made:\n")
+    for recipe in recipes.keys():
+        servings = servings_data.get(recipe, {}).get("servings", 0)
+        if servings > 0:
+            output_content.append(f"- {recipe} (Servings: {servings})")
+    output_content.append("\nGrocery List:")
+
     # Process each recipe
     for recipe, ingredients in recipes.items():
         servings = servings_data.get(recipe, {}).get("servings", 0)
@@ -58,11 +61,18 @@ def main():
             # Sum the quantities, keeping units grouped
             grocery_list[ingredient][unit] += quantity * servings
 
-    # Print the grocery list
-    print("Grocery List:")
+    # Add the grocery list to output content
     for ingredient, units in grocery_list.items():
         for unit, total_amount in units.items():
-            print(f"{ingredient}: {round(total_amount)} {unit}")
+            output_content.append(f"{ingredient}: {round(total_amount)} {unit}")
+
+    # Print the output to the console
+    for line in output_content:
+        print(line)
+
+    # Save the output to a file
+    with open("list.txt", "w", encoding="utf-8") as file:
+        file.write("\n".join(output_content))
 
 # Run the main function
 if __name__ == "__main__":
