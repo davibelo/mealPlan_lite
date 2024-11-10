@@ -1,8 +1,6 @@
-[frango_xadrez]
-servings = 2
-
-[frango_curry]
-servings = 1
-
-[frango_teriyaki]
-servings = 1
+frango_xadrez = 2
+frango_curry = 2
+frango_teriyaki = 2
+assado_de_panela = 2
+almondegas_bovinas = 2
+bife_ao_molho_madeira = 2

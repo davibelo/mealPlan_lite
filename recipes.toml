@@ -41,8 +41,7 @@ gergelim = { quantity = 1, unit = "colher_sopa" }
 azeite = { quantity = 50, unit = "mL"}
 
 [assado_de_panela]
-# Carne pode ser acém, paleta ou coxão mole
-carne = { quantity = 1.5, unit = "kg" }  
+carne_para_assado = { quantity = 1.5, unit = "kg" }  
 cebola = { quantity = 2, unit = "unid" }  
 alho = { quantity = 4, unit = "dentes" }
 tomate = { quantity = 2, unit = "unid" }  
@@ -52,22 +51,20 @@ louro = { quantity = 2, unit = "folhas" }
 azeite = { quantity = 50, unit = "mL"}
 
 [almondegas_bovinas]
-# Carne bovina moída
-carne_moida = { quantity = 500, unit = "g" }
-cebola = { quantity = 1.5, unit = "unid" }
-alho = { quantity = 3, unit = "dentes" }
+carne_moida = { quantity = 1, unit = "kg" }
+cebola = { quantity = 3, unit = "unid" }
+alho = { quantity = 6, unit = "dentes" }
 farinha_rosca = { quantity = 200, unit = "g" }
-leite = { quantity = 50, unit = "mL" }
-ovo = { quantity = 1, unit = "unid" }
-oregano = { quantity = 0.5, unit = "colher_cha" }
-queijo_parmesao = { quantity = 2, unit = "colher_sopa" }
-molho_tomate = { quantity = 500, unit = "mL" }
+leite = { quantity = 100, unit = "mL" }
+ovo = { quantity = 2, unit = "unid" }
+oregano = { quantity = 1, unit = "colher_cha" }
+queijo_parmesao = { quantity = 4, unit = "colher_sopa" }
+molho_tomate = { quantity = 1000, unit = "mL" }
 azeite = { quantity = 50, unit = "mL"}
 manjericao = { quantity = 5, unit = "folhas" }
 
 [bife_ao_molho_madeira]
-# Bifes de filé mignon ou contra-filé (aproximadamente 200g cada)
-carne = { quantity = 1, unit = "kg" }  
+carne_para_bife = { quantity = 1, unit = "kg" }  
 azeite = { quantity = 50, unit = "mL"}
 pimenta = { quantity = 0.5, unit = "colher_cha" }  # Pimenta-do-reino moída
 manteiga = { quantity = 2, unit = "colher_sopa" }
@@ -75,5 +72,5 @@ cebola = { quantity = 1, unit = "unid" }
 alho = { quantity = 2, unit = "dentes" }
 cogumelo_champignon = { quantity = 200, unit = "g" }
 vinho = { quantity = 100, unit = "mL" }
-amido_milho = { quantity = 1, unit = "colher_cha" }  # Para engrossar o molho
+amido_milho = { quantity = 1, unit = "colher_sopa" }  # Para engrossar o molho
 

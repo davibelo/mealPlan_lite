@@ -1,44 +1,48 @@
 Recipes to be made:
 
 - frango_xadrez (Servings: 2)
-- frango_curry (Servings: 1)
+- frango_curry (Servings: 2)
+- frango_teriyaki (Servings: 2)
+- assado_de_panela (Servings: 2)
+- almondegas_bovinas (Servings: 2)
+- bife_ao_molho_madeira (Servings: 2)
 
 Grocery List:
-frango: 3 kg
+frango: 6 kg
 vinagre_branco: 2 colher_sopa
 pimentao_verde: 2 unid
-pimentao_vermelho: 3 unid
+pimentao_vermelho: 4 unid
 pimentao_amarelo: 2 unid
-cebola: 3 unid
-alho: 10 dentes
-gengibre_po: 2 colher_cha
-shoyu: 200 mL
-amido_milho: 6 colher_sopa
-amido_milho: 0 colher_cha
+cebola: 18 unid
+alho: 42 dentes
+gengibre_po: 4 colher_cha
+shoyu: 440 mL
+amido_milho: 11 colher_sopa
 amendoim_torrado: 4 colher_sopa
-azeite: 150 mL
-oleo_canola: 3 colher_sopa
-curry_po: 2 colher_sopa
-leite_coco: 200 mL
-molho_tomate: 100 mL
-acucar: 12 g
-limao: 0 unid
-creme_leite: 120 mL
-cebolinha: 4 folhas
-gergelim: 0 colher_sopa
-carne: 0 kg
-tomate: 0 unid
-caldo_carne: 0 mL
-vinho_tinto: 0 mL
-louro: 0 folhas
-carne_moida: 0 g
-farinha_rosca: 0 g
-leite: 0 mL
-ovo: 0 unid
-oregano: 0 colher_cha
-queijo_parmesao: 0 colher_sopa
-manjericao: 0 folhas
-pimenta: 0 colher_cha
-manteiga: 0 colher_sopa
-cogumelo_champignon: 0 g
-vinho: 0 mL
+azeite: 600 mL
+oleo_canola: 6 colher_sopa
+curry_po: 4 colher_sopa
+leite_coco: 400 mL
+molho_tomate: 2200 mL
+acucar: 124 g
+limao: 1 unid
+creme_leite: 240 mL
+cebolinha: 14 folhas
+gergelim: 2 colher_sopa
+carne_para_assado: 3 kg
+tomate: 4 unid
+caldo_carne: 1000 mL
+vinho_tinto: 400 mL
+louro: 4 folhas
+carne_moida: 2 kg
+farinha_rosca: 400 g
+leite: 200 mL
+ovo: 4 unid
+oregano: 2 colher_cha
+queijo_parmesao: 8 colher_sopa
+manjericao: 10 folhas
+carne_para_bife: 2 kg
+pimenta: 1 colher_cha
+manteiga: 4 colher_sopa
+cogumelo_champignon: 400 g
+vinho: 200 mL

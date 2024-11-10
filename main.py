@@ -45,14 +45,14 @@ def main():
     # Header for recipes to be made
     output_content.append("Recipes to be made:\n")
     for recipe in recipes.keys():
-        servings = servings_data.get(recipe, {}).get("servings", 0)
+        servings = servings_data.get(recipe, 0)
         if servings > 0:
             output_content.append(f"- {recipe} (Servings: {servings})")
     output_content.append("\nGrocery List:")
 
     # Process each recipe
     for recipe, ingredients in recipes.items():
-        servings = servings_data.get(recipe, {}).get("servings", 0)
+        servings = servings_data.get(recipe, 0)
 
         for ingredient, details in ingredients.items():
             quantity = details.get("quantity", 0)
