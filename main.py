@@ -50,7 +50,7 @@ def main():
             # Retrieve the URL if available
             url = ingredients.get("URL", "No URL provided")
             output_content.append(f"- {recipe} (Servings: {servings}kg)")
-            output_content.append(f"  URL: {url}")
+            output_content.append(f"  URL: {url}\n")
     output_content.append("\nGrocery List:")
 
     # Process each recipe
