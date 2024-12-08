@@ -44,10 +44,13 @@ def main():
 
     # Header for recipes to be made
     output_content.append("Recipes to be made:\n")
-    for recipe in recipes.keys():
+    for recipe, ingredients in recipes.items():
         servings = servings_data.get(recipe, 0)
         if servings > 0:
+            # Retrieve the URL if available
+            url = ingredients.get("URL", "No URL provided")
             output_content.append(f"- {recipe} (Servings: {servings})")
+            output_content.append(f"  URL: {url}")
     output_content.append("\nGrocery List:")
 
     # Process each recipe

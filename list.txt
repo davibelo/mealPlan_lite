@@ -1,11 +1,17 @@
 Recipes to be made:
 
 - frango_curry (Servings: 1)
+  URL: No URL provided
 - frango_molho_tomate (Servings: 2)
+  URL: https://www.tudoreceitas.com/receita-de-frango-ao-molho-de-tomate-11716.html
 - frango_grelhado_limao (Servings: 1)
+  URL: https://www.tudogostoso.com.br/receita/107124-file-de-frango-grelhado-com-limao.html
 - assado_de_panela (Servings: 1.5)
+  URL: No URL provided
 - almondegas_bovinas (Servings: 1.5)
+  URL: No URL provided
 - bife_molho_madeira (Servings: 1.5)
+  URL: https://www.tudogostoso.com.br/receita/17094-file-ao-molho-madeira-rapido-e-pratico.html
 
 Grocery List:
 frango: 4 kg
