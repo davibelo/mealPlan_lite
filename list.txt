@@ -1,16 +1,16 @@
 Recipes to be made:
 
-- frango_curry (Servings: 1)
+- frango_curry (Servings: 1kg)
   URL: https://www.receiteria.com.br/receita/frango-ao-curry-com-leite-de-coco/
-- frango_molho_tomate (Servings: 2)
+- frango_molho_tomate (Servings: 2kg)
   URL: https://www.tudoreceitas.com/receita-de-frango-ao-molho-de-tomate-11716.html
-- frango_grelhado_limao (Servings: 1)
+- frango_grelhado_limao (Servings: 1kg)
   URL: https://www.tudogostoso.com.br/receita/107124-file-de-frango-grelhado-com-limao.html
-- assado_de_panela (Servings: 1.5)
+- assado_de_panela (Servings: 1.5kg)
   URL: https://www.tudogostoso.com.br/receita/66573-carne-assada-na-panela-de-pressao.html
-- almondegas_bovinas (Servings: 1.5)
+- almondegas_bovinas (Servings: 1.5kg)
   URL: https://www.tudogostoso.com.br/receita/80799-almondega-ao-molho-de-tomate-rapida-pratica-e-gostosa.html
-- bife_molho_madeira (Servings: 1.5)
+- bife_molho_madeira (Servings: 1.5kg)
   URL: https://www.tudogostoso.com.br/receita/17094-file-ao-molho-madeira-rapido-e-pratico.html
 
 Grocery List:
