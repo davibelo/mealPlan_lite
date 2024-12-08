@@ -9,7 +9,7 @@ Recipes to be made:
 - frango_grelhado_limao (Servings: 1kg)
   URL: https://www.tudogostoso.com.br/receita/107124-file-de-frango-grelhado-com-limao.html
 
-- assado_de_panela (Servings: 1.5kg)
+- assado_panela (Servings: 1.5kg)
   URL: https://www.tudogostoso.com.br/receita/66573-carne-assada-na-panela-de-pressao.html
 
 - almondegas_bovinas (Servings: 1.5kg)

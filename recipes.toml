@@ -54,7 +54,7 @@ manteiga = { quantity = 1, unit = "colher_sopa" }
 pimenta_reino = { quantity = 1, unit = "colher_cha" }
 mostarda = { quantity = 1, unit = "colher_sopa" }
 
-[assado_de_panela]
+[assado_panela]
 URL = "https://www.tudogostoso.com.br/receita/66573-carne-assada-na-panela-de-pressao.html"
 carne_para_assado = { quantity = 1, unit = "kg" }  
 louro = { quantity = 2, unit = "folhas" }
