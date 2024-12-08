@@ -71,10 +71,11 @@ def main():
     # Sort grocery list alphabetically by ingredient
     sorted_grocery_list = sorted(grocery_list.items())
 
-    # Add the sorted grocery list to output content
+    # Add the sorted grocery list to output content, ignoring items with total 0
     for ingredient, units in sorted_grocery_list:
         for unit, total_amount in units.items():
-            output_content.append(f"{ingredient}: {round(total_amount)} {unit}")
+            if total_amount > 0:  # Ignore items with total amount 0
+                output_content.append(f"{ingredient}: {round(total_amount)} {unit}")
 
     # Print the output to the console
     for line in output_content:
@@ -87,3 +88,4 @@ def main():
 # Run the main function
 if __name__ == "__main__":
     main()
+

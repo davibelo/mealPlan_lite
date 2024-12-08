@@ -33,8 +33,6 @@ cogumelo_champignon: 300 g
 curry_po: 2 colher_sopa
 farinha_rosca: 150 g
 frango: 4 kg
-gengibre_po: 0 colher_cha
-gergelim: 0 colher_sopa
 leite_coco: 200 mL
 limao: 1 unid
 louro: 3 folhas
@@ -46,11 +44,7 @@ oregano: 2 colher_sopa
 ovo: 6 unid
 paprica_picante: 2 colher_cha
 pimenta_reino: 2 colher_cha
-pimentao_amarelo: 0 unid
-pimentao_verde: 0 unid
 pimentao_vermelho: 3 unid
-shoyu: 0 mL
 tomate: 4 unid
 vinagre_branco: 3 colher_sopa
-vinho: 150 mL
-vinho_branco: 0 mL
+vinho_tinto: 150 mL
