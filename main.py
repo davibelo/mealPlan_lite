@@ -68,8 +68,11 @@ def main():
             # Sum the quantities, keeping units grouped
             grocery_list[ingredient][unit] += quantity * servings
 
-    # Add the grocery list to output content
-    for ingredient, units in grocery_list.items():
+    # Sort grocery list alphabetically by ingredient
+    sorted_grocery_list = sorted(grocery_list.items())
+
+    # Add the sorted grocery list to output content
+    for ingredient, units in sorted_grocery_list:
         for unit, total_amount in units.items():
             output_content.append(f"{ingredient}: {round(total_amount)} {unit}")
 

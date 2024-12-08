@@ -82,7 +82,7 @@ cebola = { quantity = 1, unit = "unid" }
 manteiga = { quantity = 4, unit = "colher_sopa" }
 caldo_carne = { quantity = 2, unit = "tablete" }
 amido_milho = { quantity = 1, unit = "colher_sopa" }
-vinho = { quantity = 100, unit = "mL" }
+vinho_tinto = { quantity = 100, unit = "mL" }
 cogumelo_champignon = { quantity = 200, unit = "g" }
 pimenta_reino = { quantity = 0.5, unit = "colher_cha" }
 
