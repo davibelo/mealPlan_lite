@@ -55,9 +55,13 @@ def main():
         servings = servings_data.get(recipe, 0)
 
         for ingredient, details in ingredients.items():
+            # Skip metadata (e.g., URL or other non-dictionary entries)
+            if not isinstance(details, dict):
+                continue
+            
             quantity = details.get("quantity", 0)
             unit = details.get("unit", "")
-            
+
             # Sum the quantities, keeping units grouped
             grocery_list[ingredient][unit] += quantity * servings
 

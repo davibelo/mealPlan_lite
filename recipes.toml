@@ -40,6 +40,25 @@ amido_milho = { quantity = 1, unit = "colher_sopa" }
 gergelim = { quantity = 1, unit = "colher_sopa" }
 azeite = { quantity = 50, unit = "mL"}
 
+[frango_molho_tomate]
+URL = "https://www.tudoreceitas.com/receita-de-frango-ao-molho-de-tomate-11716.html"
+frango = { quantity = 1, unit = "kg" }
+alho = { quantity = 4, unit = "dentes" }
+cebola = { quantity = 1, unit = "unid" }
+tomate = { quantity = 2, unit = "unid" }
+pimentao_vermelho = { quantity = 1, unit = "unid" }
+molho_tomate = { quantity = 400, unit = "mL" }
+azeite = { quantity = 60, unit = "mL"}
+oregano = { quantity = 1, unit = "colher_sopa" }
+
+[frango_grelhado_limao]
+URL = "https://www.tudogostoso.com.br/receita/107124-file-de-frango-grelhado-com-limao.html"
+frango = { quantity = 1, unit = "kg" }
+limao = { quantity = 1, unit = "unid" }
+manteiga = { quantity = 1, unit = "colher_sopa" }
+pimenta_reino = { quantity = 1, unit = "colher_cha" }
+mostarda = { quantity = 1, unit = "colher_sopa" }
+
 [assado_de_panela]
 carne_para_assado = { quantity = 1, unit = "kg" }  
 cebola = { quantity = 2, unit = "unid" }  
@@ -48,6 +67,7 @@ tomate = { quantity = 2, unit = "unid" }
 vinho_tinto = { quantity = 200, unit = "mL" }
 louro = { quantity = 2, unit = "folhas" }
 azeite = { quantity = 50, unit = "mL"}
+paprica_picante = { quantity = 1, unit = "colher_cha" }
 
 [almondegas_bovinas]
 carne_moida = { quantity = 1, unit = "kg" }
@@ -56,20 +76,25 @@ alho = { quantity = 6, unit = "dentes" }
 farinha_rosca = { quantity = 100, unit = "g" }
 leite = { quantity = 100, unit = "mL" }
 ovo = { quantity = 2, unit = "unid" }
-oregano = { quantity = 1, unit = "colher_cha" }
+oregano = { quantity = 1, unit = "colher_sopa" }
 queijo_parmesao = { quantity = 4, unit = "colher_sopa" }
 molho_tomate = { quantity = 1000, unit = "mL" }
 azeite = { quantity = 50, unit = "mL"}
 manjericao = { quantity = 5, unit = "folhas" }
 
-[bife_ao_molho_madeira]
+[bife_molho_madeira]
+URL = "https://www.tudogostoso.com.br/receita/17094-file-ao-molho-madeira-rapido-e-pratico.html"
 carne_para_bife = { quantity = 1, unit = "kg" }  
-azeite = { quantity = 50, unit = "mL"}
-pimenta = { quantity = 0.5, unit = "colher_cha" }  # Pimenta-do-reino moída
-manteiga = { quantity = 2, unit = "colher_sopa" }
-cebola = { quantity = 1, unit = "unid" }
 alho = { quantity = 2, unit = "dentes" }
-cogumelo_champignon = { quantity = 200, unit = "g" }
+cebola = { quantity = 1, unit = "unid" }
+manteiga = { quantity = 4, unit = "colher_sopa" }
+caldo_carne = { quantity = 2, unit = "tablete" }
+amido_milho = { quantity = 1, unit = "colher_sopa" }
 vinho = { quantity = 100, unit = "mL" }
-amido_milho = { quantity = 1, unit = "colher_sopa" }  # Para engrossar o molho
+cogumelo_champignon = { quantity = 200, unit = "g" }
+pimenta_reino = { quantity = 0.5, unit = "colher_cha" }
+
+
+
+
 
